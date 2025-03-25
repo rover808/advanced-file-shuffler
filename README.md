@@ -24,7 +24,7 @@ Advanced File Shuffler — это мощный Python-скрипт для обр
 🔹 Установка и запуск
 
 Клонируйте репозиторий:
-git clone https://github.com/ваш-username/advanced-file-shuffler.git
+git clone https://github.com/rover808/advanced-file-shuffler.git
 cd advanced-file-shuffler
 
 Убедитесь, что установлен Python 3.7+
